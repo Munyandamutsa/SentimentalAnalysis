@@ -1,0 +1,1001 @@
+Review	Liked
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	0
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	1
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	0
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	1
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	1
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	0
+Doctors "sometimes" or "never" communicated well	0
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	0
+Doctors "sometimes" or "never" treated them with courtesy and respect	0
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	1
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	1
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	0
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	0
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	1
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	0
+Staff "sometimes" or "never" explained	1
+Staff "usually" explained	0
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	1
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	0
+Staff "always" explained possible side effects	1
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	1
+No, staff "did not" give patients this information	1
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	1
+Discharge information - star rating	0
+No, staff "did not" give patients information about help after discharge	1
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	0
+Patients who "Agree" they understood their care when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	0
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	1
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	1
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	1
+Room was "always" clean	0
+Room was "sometimes" or "never" clean	0
+Room was "usually" clean	0
+Cleanliness - linear mean score	0
+Cleanliness - star rating	0
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	0
+Quietness - linear mean score	0
+Quietness - star rating	0
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	1
+Patients who gave a rating of "9" or "10" (high)	0
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	1
+"YES", patients would definitely recommend the hospital	1
+"YES", patients would probably recommend the hospital	1
+Recommend hospital - linear mean score	0
+Recommend hospital - star rating	1
+Summary star rating	0
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	0
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	1
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	0
+Nurses "sometimes" or "never" treated them with courtesy and respect	1
+Nurses "usually" treated them with courtesy and respect	1
+Nurses "always" listened carefully	1
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	1
+Nurses "always" explained things so they could understand	1
+Nurses "sometimes" or "never" explained things so they could understand	1
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	1
+Doctors "sometimes" or "never" listened carefully	0
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	0
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	0
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	0
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	1
+Patients "usually" received call button help as soon as they wanted	0
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	1
+Communication about medicines - linear mean score	1
+Communication about medicines - star rating	1
+Staff "always" explained new medications	1
+Staff "sometimes" or "never" explained new medications	0
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	0
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	1
+Discharge information - star rating	0
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	0
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	0
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	1
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	1
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	0
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	0
+Patients who "Strongly Agree" they understood their medications when they left the hospital	1
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	0
+Cleanliness - linear mean score	0
+Cleanliness - star rating	1
+"Always" quiet at night	0
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	1
+Quietness - linear mean score	1
+Quietness - star rating	1
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	1
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	0
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	0
+Recommend hospital - linear mean score	0
+Recommend hospital - star rating	1
+Summary star rating	1
+Nurses "always" communicated well	0
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	1
+Nurse communication - linear mean score	1
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	1
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	1
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	0
+Doctor communication - linear mean score	1
+Doctor communication - star rating	1
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	0
+Doctors "usually" treated them with courtesy and respect	0
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	0
+Doctors "sometimes" or "never" explained things so they could understand	1
+Doctors "usually" explained things so they could understand	0
+Patients "always" received help as soon as they wanted	1
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	0
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	0
+Patients "always" received call button help as soon as they wanted	1
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	0
+Patients "always" received bathroom help as soon as they wanted	0
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	0
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	1
+Staff "usually" explained	1
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	1
+Staff "always" explained new medications	1
+Staff "sometimes" or "never" explained new medications	0
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	0
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	0
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	0
+Patients who "Strongly Agree" they understood their care when they left the hospital	1
+Care transition - linear mean score	1
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	0
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	0
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	0
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	0
+Room was "usually" clean	1
+Cleanliness - linear mean score	0
+Cleanliness - star rating	1
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	1
+Quietness - linear mean score	0
+Quietness - star rating	1
+Patients who gave a rating of "6" or lower (low)	1
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	1
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	1
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	1
+"YES", patients would definitely recommend the hospital	1
+"YES", patients would probably recommend the hospital	0
+Recommend hospital - linear mean score	1
+Recommend hospital - star rating	1
+Summary star rating	0
+Nurses "always" communicated well	0
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	0
+Nurse communication - star rating	0
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	1
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	0
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	1
+Doctors "always" treated them with courtesy and respect	0
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	0
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	0
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	0
+Patients "always" received call button help as soon as they wanted	1
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	0
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	1
+Staff "usually" explained	0
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	1
+Staff "always" explained new medications	1
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	1
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	0
+Discharge information - linear mean score	1
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	1
+Yes, staff "did" give patients information about possible symptoms	0
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	0
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	1
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	0
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	0
+Room was "always" clean	0
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	0
+Cleanliness - linear mean score	1
+Cleanliness - star rating	1
+"Always" quiet at night	0
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	1
+Quietness - linear mean score	1
+Quietness - star rating	0
+Patients who gave a rating of "6" or lower (low)	1
+Patients who gave a rating of "7" or "8" (medium)	1
+Patients who gave a rating of "9" or "10" (high)	0
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	0
+"YES", patients would definitely recommend the hospital	1
+"YES", patients would probably recommend the hospital	1
+Recommend hospital - linear mean score	1
+Recommend hospital - star rating	0
+Summary star rating	0
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	1
+Nurse communication - star rating	0
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	1
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	0
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	0
+Doctors "usually" communicated well	0
+Doctor communication - linear mean score	1
+Doctor communication - star rating	1
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	1
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	1
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	0
+Patients "usually" received help as soon as they wanted	0
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	1
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	1
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	0
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	1
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	0
+Discharge information - linear mean score	0
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	1
+Yes, staff "did" give patients information about help after discharge	0
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	1
+Care transition - linear mean score	0
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	0
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	0
+Cleanliness - linear mean score	0
+Cleanliness - star rating	1
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	0
+"Usually" quiet at night	1
+Quietness - linear mean score	0
+Quietness - star rating	0
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	1
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	1
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	1
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	1
+Recommend hospital - linear mean score	1
+Recommend hospital - star rating	0
+Summary star rating	1
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	0
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	1
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	1
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	0
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	1
+Nurses "sometimes" or "never" explained things so they could understand	1
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	0
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	0
+Doctors "usually" listened carefully	1
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	1
+Doctors "usually" explained things so they could understand	0
+Patients "always" received help as soon as they wanted	1
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	0
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	1
+Patients "sometimes" or "never" received call button help as soon as they wanted	1
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	0
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	1
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	0
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	0
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	1
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	1
+No, staff "did not" give patients this information	1
+Yes, staff "did" give patients this information	0
+Discharge information - linear mean score	1
+Discharge information - star rating	0
+No, staff "did not" give patients information about help after discharge	1
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	1
+Yes, staff "did" give patients information about possible symptoms	0
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	0
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	1
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Agree" they understood their medications when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	0
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	0
+Room was "usually" clean	1
+Cleanliness - linear mean score	1
+Cleanliness - star rating	0
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	0
+"Usually" quiet at night	0
+Quietness - linear mean score	1
+Quietness - star rating	1
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	1
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	1
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	1
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	0
+Recommend hospital - linear mean score	0
+Recommend hospital - star rating	0
+Summary star rating	0
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	0
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	1
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	0
+Doctors "always" communicated well	0
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	1
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	0
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	1
+Patients "sometimes" or "never" received help as soon as they wanted	0
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	0
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	1
+Patients "sometimes" or "never" received call button help as soon as they wanted	1
+Patients "usually" received call button help as soon as they wanted	0
+Patients "always" received bathroom help as soon as they wanted	0
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	1
+Patients "usually" received bathroom help as soon as they wanted	0
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	1
+Staff "usually" explained	0
+Communication about medicines - linear mean score	1
+Communication about medicines - star rating	0
+Staff "always" explained new medications	1
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	1
+Staff "sometimes" or "never" explained possible side effects	1
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	1
+Yes, staff "did" give patients this information	0
+Discharge information - linear mean score	0
+Discharge information - star rating	0
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	0
+No, staff "did not" give patients information about possible symptoms	1
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	0
+Patients who "Strongly Agree" they understood their care when they left the hospital	1
+Care transition - linear mean score	0
+Care transition - star rating	0
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	0
+Patients who "Agree" they understood their responsiblities when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	0
+Patients who "Strongly Agree" they understood their medications when they left the hospital	1
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	0
+Cleanliness - linear mean score	1
+Cleanliness - star rating	0
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	0
+"Usually" quiet at night	1
+Quietness - linear mean score	0
+Quietness - star rating	1
+Patients who gave a rating of "6" or lower (low)	1
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	1
+Overall hospital rating - linear mean score	0
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	0
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	0
+Recommend hospital - linear mean score	1
+Recommend hospital - star rating	0
+Summary star rating	0
+Nurses "always" communicated well	1
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	1
+Nurse communication - star rating	0
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	1
+Nurses "usually" treated them with courtesy and respect	1
+Nurses "always" listened carefully	1
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	1
+Nurses "always" explained things so they could understand	1
+Nurses "sometimes" or "never" explained things so they could understand	1
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	1
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	0
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	0
+Doctors "always" listened carefully	1
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	1
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	0
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	1
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	1
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	1
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	1
+Communication about medicines - linear mean score	1
+Communication about medicines - star rating	1
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	0
+Staff "usually" explained new medications	0
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	0
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	1
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	1
+Care transition - star rating	0
+Patients who "Agree" that staff took their preferences into account	1
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	1
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	1
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	1
+Cleanliness - linear mean score	1
+Cleanliness - star rating	0
+"Always" quiet at night	1
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	0
+Quietness - linear mean score	0
+Quietness - star rating	1
+Patients who gave a rating of "6" or lower (low)	1
+Patients who gave a rating of "7" or "8" (medium)	1
+Patients who gave a rating of "9" or "10" (high)	0
+Overall hospital rating - linear mean score	0
+Overall hospital rating - star rating	1
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	1
+"YES", patients would definitely recommend the hospital	1
+"YES", patients would probably recommend the hospital	1
+Recommend hospital - linear mean score	0
+Recommend hospital - star rating	0
+Summary star rating	0
+Nurses "always" communicated well	0
+Nurses "sometimes" or "never" communicated well	1
+Nurses "usually" communicated well	1
+Nurse communication - linear mean score	1
+Nurse communication - star rating	0
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	1
+Nurses "usually" treated them with courtesy and respect	1
+Nurses "always" listened carefully	1
+Nurses "sometimes" or "never" listened carefully	1
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	1
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	1
+Doctors "sometimes" or "never" communicated well	0
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	0
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	0
+Doctors "always" listened carefully	1
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	1
+Doctors "always" explained things so they could understand	1
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	0
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	0
+Staff responsiveness - star rating	1
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	0
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	1
+Patients "usually" received bathroom help as soon as they wanted	1
+Staff "always" explained	0
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	1
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	1
+Staff "always" explained new medications	1
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	1
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	0
+Staff "usually" explained possible side effects	1
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	1
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	1
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	1
+Care transition - linear mean score	0
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	1
+Patients who "Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	0
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	1
+Room was "always" clean	0
+Room was "sometimes" or "never" clean	1
+Room was "usually" clean	0
+Cleanliness - linear mean score	0
+Cleanliness - star rating	0
+"Always" quiet at night	0
+"Sometimes" or "never" quiet at night	1
+"Usually" quiet at night	1
+Quietness - linear mean score	0
+Quietness - star rating	0
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	0
+Overall hospital rating - linear mean score	0
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	0
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	1
+Recommend hospital - linear mean score	1
+Recommend hospital - star rating	0
+Summary star rating	1
+Nurses "always" communicated well	0
+Nurses "sometimes" or "never" communicated well	0
+Nurses "usually" communicated well	1
+Nurse communication - linear mean score	0
+Nurse communication - star rating	1
+Nurses "always" treated them with courtesy and respect	1
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	0
+Nurses "usually" listened carefully	1
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	1
+Doctors "always" communicated well	0
+Doctors "sometimes" or "never" communicated well	1
+Doctors "usually" communicated well	1
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	1
+Doctors "sometimes" or "never" treated them with courtesy and respect	1
+Doctors "usually" treated them with courtesy and respect	0
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	1
+Doctors "usually" listened carefully	1
+Doctors "always" explained things so they could understand	0
+Doctors "sometimes" or "never" explained things so they could understand	1
+Doctors "usually" explained things so they could understand	1
+Patients "always" received help as soon as they wanted	1
+Patients "sometimes" or "never" received help as soon as they wanted	1
+Patients "usually" received help as soon as they wanted	1
+Staff responsiveness - linear mean score	1
+Staff responsiveness - star rating	0
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	1
+Patients "always" received bathroom help as soon as they wanted	1
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	0
+Staff "always" explained	0
+Staff "sometimes" or "never" explained	1
+Staff "usually" explained	1
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	0
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	1
+Staff "usually" explained new medications	0
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	0
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	1
+Discharge information - linear mean score	0
+Discharge information - star rating	1
+No, staff "did not" give patients information about help after discharge	1
+Yes, staff "did" give patients information about help after discharge	0
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	1
+Patients who "Agree" they understood their care when they left the hospital	1
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	1
+Patients who "Strongly Agree" they understood their care when they left the hospital	1
+Care transition - linear mean score	0
+Care transition - star rating	1
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	1
+Patients who "Strongly Agree" that staff took their preferences into account	0
+Patients who "Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	0
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Agree" they understood their medications when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their medications when they left the hospital	1
+Patients who "Strongly Agree" they understood their medications when they left the hospital	0
+Room was "always" clean	1
+Room was "sometimes" or "never" clean	0
+Room was "usually" clean	0
+Cleanliness - linear mean score	0
+Cleanliness - star rating	0
+"Always" quiet at night	0
+"Sometimes" or "never" quiet at night	0
+"Usually" quiet at night	0
+Quietness - linear mean score	0
+Quietness - star rating	0
+Patients who gave a rating of "6" or lower (low)	0
+Patients who gave a rating of "7" or "8" (medium)	0
+Patients who gave a rating of "9" or "10" (high)	0
+Overall hospital rating - linear mean score	1
+Overall hospital rating - star rating	0
+"NO", patients would not recommend the hospital (they probably would not or definitely would not recommend it)	0
+"YES", patients would definitely recommend the hospital	0
+"YES", patients would probably recommend the hospital	0
+Recommend hospital - linear mean score	0
+Recommend hospital - star rating	0
+Summary star rating	0
+Nurses "always" communicated well	0
+Nurses "sometimes" or "never" communicated well	0
+Nurses "usually" communicated well	0
+Nurse communication - linear mean score	0
+Nurse communication - star rating	0
+Nurses "always" treated them with courtesy and respect	0
+Nurses "sometimes" or "never" treated them with courtesy and respect	0
+Nurses "usually" treated them with courtesy and respect	0
+Nurses "always" listened carefully	0
+Nurses "sometimes" or "never" listened carefully	0
+Nurses "usually" listened carefully	0
+Nurses "always" explained things so they could understand	0
+Nurses "sometimes" or "never" explained things so they could understand	0
+Nurses "usually" explained things so they could understand	0
+Doctors "always" communicated well	0
+Doctors "sometimes" or "never" communicated well	0
+Doctors "usually" communicated well	0
+Doctor communication - linear mean score	0
+Doctor communication - star rating	0
+Doctors "always" treated them with courtesy and respect	0
+Doctors "sometimes" or "never" treated them with courtesy and respect	0
+Doctors "usually" treated them with courtesy and respect	0
+Doctors "always" listened carefully	0
+Doctors "sometimes" or "never" listened carefully	0
+Doctors "usually" listened carefully	0
+Doctors "always" explained things so they could understand	0
+Doctors "sometimes" or "never" explained things so they could understand	0
+Doctors "usually" explained things so they could understand	0
+Patients "always" received help as soon as they wanted	0
+Patients "sometimes" or "never" received help as soon as they wanted	0
+Patients "usually" received help as soon as they wanted	0
+Staff responsiveness - linear mean score	0
+Staff responsiveness - star rating	0
+Patients "always" received call button help as soon as they wanted	0
+Patients "sometimes" or "never" received call button help as soon as they wanted	0
+Patients "usually" received call button help as soon as they wanted	0
+Patients "always" received bathroom help as soon as they wanted	0
+Patients "sometimes" or "never" received bathroom help as soon as they wanted	0
+Patients "usually" received bathroom help as soon as they wanted	0
+Staff "always" explained	0
+Staff "sometimes" or "never" explained	0
+Staff "usually" explained	0
+Communication about medicines - linear mean score	0
+Communication about medicines - star rating	0
+Staff "always" explained new medications	0
+Staff "sometimes" or "never" explained new medications	0
+Staff "usually" explained new medications	0
+Staff "always" explained possible side effects	0
+Staff "sometimes" or "never" explained possible side effects	0
+Staff "usually" explained possible side effects	0
+No, staff "did not" give patients this information	0
+Yes, staff "did" give patients this information	0
+Discharge information - linear mean score	0
+Discharge information - star rating	0
+No, staff "did not" give patients information about help after discharge	0
+Yes, staff "did" give patients information about help after discharge	0
+No, staff "did not" give patients information about possible symptoms	0
+Yes, staff "did" give patients information about possible symptoms	0
+Patients who "Agree" they understood their care when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their care when they left the hospital	0
+Patients who "Strongly Agree" they understood their care when they left the hospital	0
+Care transition - linear mean score	0
+Care transition - star rating	0
+Patients who "Agree" that staff took their preferences into account	0
+Patients who "Disagree" or "Strongly Disagree" that staff took their preferences into account	0
+Patients who "Strongly Agree" that staff took their preferences into account	0
+Patients who "Agree" they understood their responsiblities when they left the hospital	0
+Patients who "Disagree" or "Strongly Disagree" they understood their responsiblities when they left the hospital	0
+Patients who "Strongly Agree" they understood their responsiblities when they left the hospital	0
+Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.	0
